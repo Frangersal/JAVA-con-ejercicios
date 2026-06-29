@@ -1,3 +1,4 @@
+package Ejercicios;
 public class ejercicio6 {
     public static void main(String[] args) {
         //Escribe un programa que calcule el total de una factura a partir de la base

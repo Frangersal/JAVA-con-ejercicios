@@ -1,3 +1,4 @@
+package Ejercicios;
 public class ejercicio8 {
     public static void main(String[] args) {
         char letra1 = 'S';

@@ -1,3 +1,4 @@
+package Ejercicios;
 public class ejercicio4 {
     public static void main(String[] args) { 
         double dolar = 17.41;
